@@ -1,4 +1,4 @@
-package com.fluxandmonoplayground;
+package com.learnreactivespring.fluxandmonoplayground;
 
 import org.junit.Test;
 import reactor.core.publisher.Flux;
